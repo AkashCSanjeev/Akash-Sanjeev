@@ -6,7 +6,9 @@
 
 ---
 ---
-I'm Akash C Sanjeev. An upcoming Android Developer. Current a 3<sup>rd</sup> year student at Goa Enginnering College.
+Hey there, I'm Akash Sanjeev, a 3<sup>rd</sup> year student at Goa College of Engineering. I'm passionate about software development, and my interests include native and hybrid app development, machine learning, backend, and competitive coding. In other words, I love anything that involves staring at a screen for hours!
+
+In my free time, you can usually find me scouring the internet for new coding tutorials or desperately strategizing my next move on Chessboard (or, you know, losing miserably).
 
 ## Thinks I am passionate about
 
