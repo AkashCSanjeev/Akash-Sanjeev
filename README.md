@@ -18,6 +18,8 @@ In my free time, you can usually find me scouring the internet for new coding tu
 - Android Development 📱
 - Machine Learning 🤖
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashcsanjeev&theme=gotham) ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashcsanjeev&show_icons=true&theme=gotham&rank_icon=github)
+
 ## Get in touch 
 
 ---
