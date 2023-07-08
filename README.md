@@ -20,12 +20,6 @@ In my free time, you can usually find me scouring the internet for new coding tu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashcsanjeev&theme=gotham) ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashcsanjeev&show_icons=true&theme=gotham&rank_icon=github)
 
-## Get in touch 
-
----
----
-- [LinkedIn](https://www.linkedin.com/in/akash-sanjeev-37436a1b5/)
-- [Github](https://github.com/AkashCSanjeev)
 
 ![AllICanDoRightNowIsPutOnABraveFaceGIF](https://user-images.githubusercontent.com/84001413/187073629-667a243b-909f-4f3e-abec-52351663caf7.gif)
 
